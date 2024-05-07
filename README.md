@@ -7,12 +7,12 @@
     <img src="turmadt.png" alt="Logo" >
   </a>
 
-<h3 align="center">Projeto de Vida - Turma DT</h3>
+<h3 align="center">Largados melhor time de arapongas</h3>
 
   <p align="center">
-    Projeto construído no Grupo de Formadores Trilha de Programação II | 1ª Jornada de 2024
+   time de craques do terceiro ano impressiona por sua genialidade
     <br />
-    <a href="https://github.com/kheronn"><strong>Prof. Formador Kheronn Khennedy Machado</strong></a>
+    <a href="https://github.com/kheronn"><strong>nao ha registros dessa seleçao de tao lendarios que eles sao</strong></a>
     <br />
     <br />
    
@@ -26,9 +26,9 @@
   <summary>Conteúdos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o projeto</a>
+      <a href="#about-the-project">galaticos de 2024</a>
       <ul>
-        <li><a href="#built-with">Tecnologias</a></li>
+        <li><a href="#built-with">nao ha tecnologias apenas magia nesse time</a></li>
       </ul>
     </li>   
   </ol>
