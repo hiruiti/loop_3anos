@@ -4,7 +4,7 @@ let loop1 = "";
 while (loop1 !== "continuar perguntando") {
 loop1 = prompt("Qual o melhor time do mundo?");
 
-  if (loop1 === "Largados fc") {
+  if (loop1 === "Palmeiras") {
     alert("boa bola garotinho(a)!");
     continuar perguntando=false//sai loop apos resposta correta
   } else {
